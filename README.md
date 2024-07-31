@@ -4,7 +4,7 @@ Smatfin would like to formally launch its online store in Zambia. An online stor
 <H2>Which channels are contributing to traffic?</H2>
 <img src="https://github.com/Shimanga/Website-Analytics-Report/blob/main/Smatfin%20user%20acquisition.png?raw=true)"></img>
 
-<H2>Which channels are effective in driving user growth?</H2>
+<H2>How are the channels driving user growth?</H2>
 <img src="https://github.com/Shimanga/Website-Analytics-Report/blob/main/Smatfin%20user%20acquisition%20overview.png?raw=true"></img>
 
 <H2>Is the audience from the right geographical location?</H2>
@@ -21,3 +21,19 @@ If a good number of users are also using mobile to access your site, then you ne
 <H2>What Segments Should You Target?</H2>
 
 Demographics and interests are not listed because the data is too limited for Google to determine target user groups
+
+<H2>Recommendations</H2>
+
+Run targeted advertising or promotional campaigns in regions where you see the highest potential- Lusaka and Kitwe
+
+Create region-specific content or offers tailored to the preferences and needs of users in that area.
+
+Majority of the audience are mobile phone users. Ensure your site is fully responsive and offers a seamless experience on mobile devices. 
+
+Create dedicated landing pages for specific traffic sources to provide a more relevant experience.
+
+To reduce the bounce rate on some landing pages, improve content quality, optimize page load speed, and enhance design and usability.
+
+To optimize conversion paths, analyze user flow to identify where users drop off and optimize these paths. Add products from the store relevant to the content
+
+Reassess your marketing channels and targeting strategies to ensure you're attracting the right audience. 
