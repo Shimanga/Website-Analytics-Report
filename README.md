@@ -24,17 +24,19 @@ Demographics and interests are not listed because the data is too limited for Go
 
 <H2>Recommendations</H2>
 
+The website audience has potential to grow and convert
+
 <ul>
-<li>Run targeted advertising or promotional campaigns in regions where you see the highest potential- Lusaka and Kitwe</li>
+<li>Run targeted advertising or promotional campaigns in Lusaka and Kitwe where there is high potential</li>
 
-<li>Create region-specific content or offers tailored to the preferences and needs of users in that area.</li>
+<li>Create region-specific content or offers tailored to the preferences and needs of users in these areas.</li>
 
-<li>Majority of the audience are mobile phone users. Ensure your site is fully responsive and offers a seamless experience on mobile devices. </li>
+<li>Majority of the audience are mobile phone users. Ensure the site is fully responsive and offers a seamless experience on mobile devices. </li>
 
 <li>Create dedicated landing pages for specific traffic sources to provide a more relevant experience.</li>
 
-<li>To reduce the bounce rate on some landing pages, improve content quality, optimize page load speed, and enhance design and usability.</li>
+<li>To reduce the bounce rate, improve content quality, optimize page load speed, and enhance design and usability.</li>
 
-<li>To optimize conversion paths, analyze user flow to identify where users drop off and optimize these paths. Add products from the store relevant to the content</li>
+<li>To optimize conversion paths, analyze user flow to identify where users drop off and optimize these paths. Add products from the store that are in sync with the content</li>
 
-<li>Reassess your marketing channels and targeting strategies to ensure you're attracting the right audience. </li>
+<li>Reassess marketing channels and targeting strategies to ensure the right audience is being attracted. </li>
