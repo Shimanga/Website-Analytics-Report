@@ -7,14 +7,17 @@ Smatfin would like to formally launch its online store in Zambia. An online stor
 <H2>Which channels are effective in driving user growth?</H2>
 <img src="https://github.com/Shimanga/Website-Analytics-Report/blob/main/Smatfin%20user%20acquisition%20overview.png?raw=true"></img>
 
+<H2>Are You Targeting The Right Geographical Locations?</H2>
+<img src="https://github.com/Shimanga/Website-Analytics-Report/blob/main/location.png?raw=true"></img>
+
+<H2>What Devices are Used by Your Audience?</H2>
+<img src="https://github.com/Shimanga/Website-Analytics-Report/blob/main/devices.png?raw=true"></img>
+
+If a good number of users are also using mobile to access your site, then you need to improve your user experience for mobile devices. 
+
+<H2>What content is the audience viewing</H2>
+<img src="https://github.com/Shimanga/Website-Analytics-Report/blob/main/Smatfin%20page%20views.png?raw=true</img>
+
 <H2>Demographics & Interests - What Segments Should You Target?</H2>
 
 Data is too limited for Google to determine target user groups
-
-<H2>Location - Are You Targeting The Right Geographical Locations?</H2>
-![location](https://github.com/user-attachments/assets/9104f543-470b-4c79-bea8-1c295411c3fa)
-
-<H2>What Devices are Used by Your Audience?</H2>
-![devices](https://github.com/user-attachments/assets/e7ffd62c-812f-49c2-b7ea-df517b4ba706)
-
-If a good number of users are also using mobile to access your site, then you need to improve your user experience for mobile devices. 
