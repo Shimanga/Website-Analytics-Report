@@ -1,5 +1,5 @@
-<H2> Smatfin</H2>
-Smatfin would like to formally launch its online store in Zambia. An online store was added to the website in January 2023 and links to the store were added on all profiles and some paid ads. However, very few proceeded to the website because Zambians prefer to shop through WhatsApp catalogues. This project aims to analyse website data collected so far and get meaningful insights that can influence marketing efforts.
+<H2> Are the current website visitors potential buyer?</H2>
+Smatfin would like to formally launch its online store in Zambia. An online store was added to the website in January 2023 and links to the store were added on all profiles and some paid ads. However, few proceeded to the website because Zambians prefer to shop through WhatsApp catalogues. This project aims to analyse website data collected so far and get meaningful insights that can influence marketing efforts.
 
 <H2>Which channels are contributing to your traffic and conversions?</H2>
 <img src="https://github.com/Shimanga/Website-Analytics-Report/blob/main/Smatfin%20user%20acquisition.png?raw=true)"></img>
