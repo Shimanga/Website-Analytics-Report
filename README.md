@@ -16,7 +16,7 @@ Smatfin would like to formally launch its online store in Zambia. An online stor
 If a good number of users are also using mobile to access your site, then you need to improve your user experience for mobile devices. 
 
 <H2>What content is the audience viewing</H2>
-<img src="https://github.com/Shimanga/Website-Analytics-Report/blob/main/Smatfin%20page%20views.png?raw=true</img>
+<img src="https://github.com/Shimanga/Website-Analytics-Report/blob/main/Smatfin%20page%20views.png?raw=true"></img>
 
 <H2>Demographics & Interests - What Segments Should You Target?</H2>
 
