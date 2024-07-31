@@ -2,10 +2,10 @@
 Smatfin would like to formally launch its online store in Zambia. An online store was added to the website in January 2023 and links to the store were added on all profiles and some paid ads. However, very few proceeded to the website because Zambians prefer to shop through WhatsApp catalogues. This project aims to analyse website data collected so far and get meaningful insights that can influence marketing efforts.
 
 <H2>Which channels are contributing to your traffic and conversions?</H2>
-![Smatfin user acquisition](https://github.com/user-attachments/assets/453f5585-50d2-4328-8ac0-1acf143b7902)
+<img src="https://github.com/Shimanga/Website-Analytics-Report/blob/main/Smatfin%20user%20acquisition.png?raw=true)"></img>
 
 <H2>Which channels are effective in driving user growth?</H2>
-![Smatfin user acquisition overview](https://github.com/user-attachments/assets/b3180913-06b5-4171-aa64-ffad2af0ca0f)
+<img src="https://github.com/Shimanga/Website-Analytics-Report/blob/main/Smatfin%20user%20acquisition%20overview.png?raw=true"></img>
 
 <H2>Demographics & Interests - What Segments Should You Target?</H2>
 
