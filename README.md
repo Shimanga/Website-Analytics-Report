@@ -24,7 +24,7 @@ Demographics and interests are not listed because the data is too limited for Go
 
 <H2>Recommendations</H2>
 
-The website audience has potential to grow and convert
+The website audience has potential to grow and convert. The audience is global, but there is also a regional specific audience. Below are recommendations to aid the launch of the online store.
 
 <ul>
 <li>Run targeted advertising or promotional campaigns in Lusaka and Kitwe where there is high potential</li>
