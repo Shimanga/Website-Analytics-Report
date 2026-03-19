@@ -42,7 +42,7 @@ The repository includes the following analytical visualizations:
 | <img src="https://github.com/Shimanga/Website-Analytics-Report/blob/main/Smatfin%20page%20views.png?raw=true"></img> | Channel-specific acquisition performance |
 | <img src="https://github.com/Shimanga/Website-Analytics-Report/blob/main/location.png?raw=true"></img> | Geographic distribution of users |
 | <img src="https://github.com/Shimanga/Website-Analytics-Report/blob/main/devices%20used.png?raw=true"></img> | Device type breakdown (mobile, desktop, tablet) |
-| <img src="https://github.com/Shimanga/Website-Analytics-Report/blob/main/user%20retention.png?raw=true</img>
+| <img src="https://github.com/Shimanga/Website-Analytics-Report/blob/main/user%20retention.png?raw=true"></img>
  | User engagement trends over time |
 
 ##  Strategic Recommendations
