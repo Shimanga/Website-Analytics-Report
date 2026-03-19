@@ -37,7 +37,7 @@ The repository includes the following analytical visualizations:
 
 | File | Description |
 |------|-------------|
-| `<img src="https://github.com/Shimanga/Website-Analytics-Report/blob/main/Smatfin%20user%20acquisition.png?raw=true)"></img>` | Overall traffic trends and page view patterns |
+| <img src="https://github.com/Shimanga/Website-Analytics-Report/blob/main/Smatfin%20user%20acquisition.png?raw=true)"></img> | Overall traffic trends and page view patterns |
 | `<img src="https://github.com/Shimanga/Website-Analytics-Report/blob/main/Smatfin%20user%20acquisition%20overview.png?raw=true"></img>` | New vs. returning user breakdown |
 | `<img src="https://github.com/Shimanga/Website-Analytics-Report/blob/main/Smatfin%20page%20views.png?raw=true"></img>` | Channel-specific acquisition performance |
 | `<img src="https://github.com/Shimanga/Website-Analytics-Report/blob/main/location.png?raw=true"></img>` | Geographic distribution of users |
